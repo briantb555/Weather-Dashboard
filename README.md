@@ -19,5 +19,6 @@ Type a city into the 'Search for a City:' form box and click the 'Search' button
 The weather for the city should appear with a 5-Day Forecast.
 
 What was Used
+
 API from openweathermap.org
 JavaScript, TypeScript, HTML, CSS (from a starter code)
